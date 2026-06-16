@@ -42,3 +42,18 @@ python-dotenv>=1.0.0              # Load API keys from .env
 numpy>=1.26.0
 tqdm>=4.66.0                      # Progress bars
 requests>=2.32.0
+
+streamlit
+langchain
+langchain-community
+langchain-chroma
+langchain-huggingface
+langchain-mistralai
+chromadb
+sentence-transformers
+torch
+openai-whisper
+pydub
+yt-dlp
+python-dotenv
+requests
